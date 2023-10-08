@@ -1,4 +1,7 @@
-<img width="450" align="center" alt="Screenshot_1" src="https://github.com/SergeiShologin/TodoList/assets/101599910/a6afa78c-c847-4f09-8108-fa65f4e3e53c">
+<p align="center">
+  <img width="500" align="center" alt="Screenshot_1" src="https://github.com/SergeiShologin/TodoList/assets/101599910/a6afa78c-c847-4f09-8108-fa65f4e3e53c">
+</p>
+
 
 # :notebook_with_decorative_cover: Todo List
 
